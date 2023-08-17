@@ -4,6 +4,8 @@ AWS SAM では、GO や RUST もサポートされている。
 
 であれば C でも作れるのか？と思い試してみたコード。
 
+解説については、[AWS SAM のカスタムランタイム](https://www.runserver.jp/posts/aws-sam-custom-runtime-in-c/) に投稿。
+
 ## 準備
 
 1. Amazon Linux 2 インスタンスを立ち上げる
